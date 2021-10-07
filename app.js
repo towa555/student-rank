@@ -72,7 +72,7 @@ let student_List = [
   
   ]
 //write an algorithm to to rank the students in order of merit
-//this code sorts the student average in ascending order
+//this code sorts the student average in ascending order..
 /*
 employee.sort((a,b) =>{
   return a.Age - b.Age;
